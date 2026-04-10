@@ -20,12 +20,15 @@
 💻 What I’m Currently Working On
 
 Zomato Restaurant Data Analysis Using Python
+
 This project analyzes a Zomato dataset to uncover insights into restaurant trends, customer preferences, and pricing patterns.
 
 Healthcare Data Analysis Project
+
 Analyzing healthcare datasets to discover insights and patterns using Python and data visualization tools.
 
 Social Media Engagement Analysis Using Python Project
+
 This project focuses on analyzing social media data to uncover patterns in user engagement and content performance.
 It transforms raw data into actionable insights to understand how users interact with different types of content.
 
