@@ -67,7 +67,9 @@ MySQL
 🤝 Let’s Connect
 
 📧 Email: gogikarlahiri@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/gogikar-lahiri-6a3b30313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 📁 GitHub: Explore my projects and repositories.
 
 ⸻
