@@ -22,8 +22,9 @@
 📊 Healthcare Data Analysis Project
 Analyzing healthcare datasets to discover insights and patterns using Python and data visualization tools.
 
-🚌 Bus Travel Data Analytics Project
-Studying passenger travel data to understand patterns and improve transport planning.
+Social Media Engagement Analysis Using Python Project
+This project focuses on analyzing social media data to uncover patterns in user engagement and content performance.
+It transforms raw data into actionable insights to understand how users interact with different types of content.
 
 📈 Data Visualization Projects
 Creating charts and dashboards using Pandas, Matplotlib, and Seaborn.
