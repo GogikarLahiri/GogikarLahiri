@@ -19,7 +19,10 @@
 
 💻 What I’m Currently Working On
 
-📊 Healthcare Data Analysis Project
+Zomato Restaurant Data Analysis Using Python
+This project analyzes a Zomato dataset to uncover insights into restaurant trends, customer preferences, and pricing patterns.
+
+Healthcare Data Analysis Project
 Analyzing healthcare datasets to discover insights and patterns using Python and data visualization tools.
 
 Social Media Engagement Analysis Using Python Project
@@ -29,7 +32,7 @@ It transforms raw data into actionable insights to understand how users interact
 📈 Data Visualization Projects
 Creating charts and dashboards using Pandas, Matplotlib, and Seaborn.
 
-🌱 Learning Projects
+Learning Projects
 Building small projects to strengthen my skills in data analytics and programming.
 
 ⸻
@@ -61,7 +64,7 @@ MySQL
 🤝 Let’s Connect
 
 📧 Email: gogikarlahiri@gmail.com
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/gogikar-lahiri-6a3b30313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 📁 GitHub: Explore my projects and repositories.
 
 ⸻
